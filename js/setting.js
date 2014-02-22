@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'yokohama_budget';
+OpenSpending.identifier = 'mutsu_city_2012_budget';
 OpenSpending.year = '2012';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -19,7 +19,7 @@ OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1-1': { icon: 'icons/c_kenkou_fukushi.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-2': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
@@ -44,7 +44,10 @@ OpenSpending.Styles.Cofog = {
   '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
