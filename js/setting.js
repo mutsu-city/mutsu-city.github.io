@@ -10,8 +10,10 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'mutsu_city_2012_budget';
-OpenSpending.year = '2012';
+OpenSpending.identifier = 'mutsu_city_2013_budget';
+OpenSpending.identifier = UseData.identifier;
+OpenSpending.year = '2013';
+OpenSpending.year = UseData.year;
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
