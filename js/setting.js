@@ -21,31 +21,31 @@ OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
   '1': { icon: 'icons/government.svg', color: '#ffb6c1', bcolor: '#935B3B' },
-  '101': { icon: 'icons/gikai.svg', color: '#ffb6c1', bcolor: '#935B3B' },
+  '101': { icon: 'icons/government.svg', color: '#ffb6c1', bcolor: '#935B3B' },
   '2': { icon: 'icons/publicaffairs.svg', color: '#ffb6c1', bcolor: '#0AB971' },
-  '201': { icon: 'icons/soumu.svg', color: '#ffb6c1', bcolor: '#0AB971' },
+  '201': { icon: 'icons/publicaffairs.svg', color: '#ffb6c1', bcolor: '#0AB971' },
   '3': { icon: 'icons/family.svg', color: '#ffb6c1', bcolor: '#4E6D00' },
-  '301': { icon: 'icons/minsei.svg', color: '#ffb6c1', bcolor: '#4E6D00' },
+  '301': { icon: 'icons/family.svg', color: '#ffb6c1', bcolor: '#4E6D00' },
   '4': { icon: 'icons/health.svg', color: '#ffb6c1', bcolor: '#0099cc' },
   '401': { icon: 'icons/health.svg', color: '#ffb6c1', bcolor: '#0099cc' },
   '5': { icon: 'icons/labour.svg', color: '#ffb6c1', bcolor: '#D33673' },
-  '501': { icon: 'icons/roudo.svg', color: '#ffb6c1', bcolor: '#D33673' },
+  '501': { icon: 'icons/labour.svg', color: '#ffb6c1', bcolor: '#D33673' },
   '6': { icon: 'icons/forest.svg', color: '#ffb6c1', bcolor: '#2A3A03' },
-  '601': { icon: 'icons/nourinsuisan.svg', color: '#ffb6c1', bcolor: '#2A3A03' },
-  '7': { icon: 'icons/traffic-watersup.svg', color: '#ffb6c1', bcolor: '#EC2406' },
-  '701': { icon: 'icons/syoko.svg', color: '#ffb6c1', bcolor: '#EC2406' },
+  '601': { icon: 'icons/forest.svg', color: '#ffb6c1', bcolor: '#2A3A03' },
+  '7': { icon: 'icons/courts.svg', color: '#ffb6c1', bcolor: '#EC2406' },
+  '701': { icon: 'icons/courts.svg', color: '#ffb6c1', bcolor: '#EC2406' },
   '8': { icon: 'icons/construction.svg', color: '#ffb6c1', bcolor: '#C75746' },
   '801': { icon: 'icons/construction.svg', color: '#ffb6c1', bcolor: '#C75746' },
   '9': { icon: 'icons/fire-brigade.svg', color: '#ffb6c1', bcolor: '#790586' },
   '901': { icon: 'icons/fire-brigade.svg', color: '#ffb6c1', bcolor: '#790586' },
   '10': { icon: 'icons/schools.svg', color: '#ffb6c1', bcolor: '#C75746' },
   '1001': { icon: 'icons/schools.svg', color: '#ffb6c1', bcolor: '#C75746' },
-  '11': { icon: 'icons/aid-developing-countries.svg', color: '#ffb6c1', bcolor: '#009900' },
-  '1101': { icon: 'icons/aid-developing-countries.svg', color: '#ffb6c1', bcolor: '#009900' },
+  '11': { icon: 'icons/transfers.svg', color: '#ffb6c1', bcolor: '#009900' },
+  '1101': { icon: 'icons/transfers.svg', color: '#ffb6c1', bcolor: '#009900' },
   '12': { icon: 'icons/japanese-money.svg', color: '#ffb6c1', bcolor: '#0099cc' },
-  '1201': { icon: 'icons/kosai.svg', color: '#ffb6c1', bcolor: '#0099cc' },
-  '13': { icon: 'icons/money.svg', color: '#ffb6c1', bcolor: '#ffb6c1' },
-  '1301': { icon: 'icons/yobi.svg', color: '#ffb6c1', bcolor: '#ffb6c1' }
+  '1201': { icon: 'icons/japanese-money.svg', color: '#ffb6c1', bcolor: '#0099cc' },
+  '13': { icon: 'icons/public-debt.svg', color: '#ffb6c1', bcolor: '#ffb6c1' },
+  '1301': { icon: 'icons/public-debt.svg', color: '#ffb6c1', bcolor: '#ffb6c1' }
 };
 
 
